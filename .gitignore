@@ -1,6 +1,7 @@
 # Titan:
 # Ignore virtual Python env related files, etc
 pyenv/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
